@@ -1,0 +1,31 @@
+# Core ML and data processing
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==2.0.2
+joblib==1.4.2
+
+# Audio processing
+librosa==0.10.2
+soundfile==0.12.1
+sounddevice==0.4.6
+python_speech_features==0.6
+simpleaudio==1.0.4
+
+# Plotting and visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+shap==0.45.1
+
+# GUI and interaction
+ttkbootstrap==1.10.1
+
+# OpenAI API
+openai==2.43.0
+httpx==0.28.1
+
+# Voice playback/synthesis
+pyttsx3==2.90
+
+# Misc utilities
+requests==2.32.3
+Pillow==10.3.0
